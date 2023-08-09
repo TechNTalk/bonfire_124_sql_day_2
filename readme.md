@@ -7,7 +7,7 @@ We were given a task to create a database capable of storing all relevant data f
 
 ### ERD
 
-![](Movie Theater.pdf)
+![]([Movie Theater.pdf](https://github.com/TechNTalk/bonfire_124_sql_day_2/blob/main/Movie%20Theater.pdf))
 
 
 ## Folder Structure:
